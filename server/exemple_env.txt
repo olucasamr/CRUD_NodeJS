@@ -1,0 +1,8 @@
+
+DB_HOST= Your hostname
+DB_NAME= Your database name
+DB_USER= Your user from database
+DB_PASSWORD= Password of your database
+PORT= 3000 
+TABLE_NAME= Name from table created in your database
+
