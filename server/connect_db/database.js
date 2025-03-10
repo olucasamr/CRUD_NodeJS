@@ -21,7 +21,6 @@ const config = {
 
 export const pool = mysql2.createPool(config);
 
-// console.log(pool);
 
 const connection = async () => {
     try {
